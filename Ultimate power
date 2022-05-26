@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document.young</title>
+  <style>
+     *{font-family: "Times New Roman";}
+    .demo{background-color:#47083b
+    ;
+    color:white;
+    width=100%;
+    height:40px;
+    text-align: center;
+    padding:15px;
+    padding-top:30px;}
+    .demo:hover{background-color:#cf1cc1;
+    color:#f1f1f1;
+    transition:1s;
+      font-size: 20px;
+      font-family:Sans-Serif;
+    }
+    ::selector{background-color: yellow;
+    color:red;}
+    .caps{font-variant: small-caps;}
+    span{font-size:35px;
+    color:#cb0202;}
+    blockquote{color:rgb(106,104,255);
+      font-style:italic;
+    }
+    p:hover{background-color:rgb(237,228,237);
+      color:#1a1515;
+    }
+    blockquote:hover{background-color:blue;
+    color:white;}
+    ::selector{background-color:yellow;
+    color:red;}
+    
+  </style>
+</head>
+<body>
+  <p class="demo">The Ultimate Power</p>
+  <h2 class="caps"><span>T</span>he story of a young man...</h2>
+  <p><span>J</span>aphet was just eight years old when his mother died, by then he was left only to be taken care of by his father.</p>
+  <p><span>A</span>lthough Japheth's father was a very rich and wealthy man who loved his family very much. His love for his departed wife was so intense that he decided not to remarry because according to him,"Japheth's mom was a missing rib that could never be replaced!"</p>
+  <p><span>J</span>aphet was upheld and brought up by his father to a morally upright and God-fearing person. Some time later, as Japhet grew older, his father had promised him something special if he was able to obtain his degree in software engineering meritoriously. Although it was Japheth's desired course of study and his father gave him much support.</p>
+  <p><span>A</span>fter sometime, Japhet upheld this and worked hard for it. He successfully obtained his first degree in software engineering and was overjoyed! On his way home, he was quute sure that His father had a special type of gift for him...</p>
+  <p><span>O</span>n getting home, his father welcomed him warmly and embraced him for his great success. Japhet sat in the sitting room as his father sneakily left to obtain his special kind of gift for his special son.</p>
+  <p><span>A</span>s Japhet sat in wait for his gift, his father showed up and...to his surprise, his father offered him a surreptitiously brand-new Bible!...When Japhet saw this, he got so mad at his father and uttered downsizing words! He accused him of being selfish despite his imminent wealth! "You got me a bible? a reward for my hardwork?" were the words of angry Japhet! Japheth couldn't stand the sight ...he left home and left for <strong>Good!</strong></p>
+  <p><span>M</span>any years passed without a word from his father,Japhet worked to become a very successful business person on his own. He lived the good life, he got himself a car and he worked really hard and really smart.</p>
+  <p><span>H</span>aving become so successful, He missed his father very much that he decided to pay him a visit. The next day as he was getting prepared for his trip, he received a phone call that his father had just passed away and that he had handed down his properties to his only son,<b>Japhet.</b>...This news struck him to the heart so much that he wept bitterly.</p>
+  <p><span>J</span>aphet attended the funeral and returned to his father's apartment in which he had left many years back. He walked past the bookshelf of which his father had neatly laid his special gift of the time past in bereavement. His eye caught his <i>once upon a time gift.</i>He took the BIBLE and just as he did so, Car keys fell off the bible and landed on the carpet!</p>
+  <p><span>J</span>aphet shook at the sound of the keys and squatted to see what it was...it was the keys of a <em>brand-new Car!</em>.It dated back to the "many-years-ago-ago" for his merit! Japhet regretted his foolishness! He wept bitterly...</p>
+  <blockquote><q>Life teaches many lessons but we ought to learn! Understand, patience is virtuous. Most things demands time and we will always experience the best of it. How I wish Japhet was patient enough to experience the awesome and the most uniquely packed gift of his father, he'd have better enjoyed fatherhood...</q></blockquote>
+  <p style="color:#00a9d3"><i>Check comment section for the morals of the story, a thread.</i></p>
+    <p class="demo">...The End.</p>
+</body>
+</html>
